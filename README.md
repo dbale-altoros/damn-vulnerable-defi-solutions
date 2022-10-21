@@ -8,6 +8,10 @@ Featuring flash loans, price oracles, governance, NFTs, lending pools, smart con
 Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
 
 
+## Install
+`yarn install`
+
+
 ## Test
 `yarn test [path of the test]`
 
